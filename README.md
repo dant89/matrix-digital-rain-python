@@ -11,6 +11,13 @@ It's simple to run, just open up a terminal and run the rain.py file - it's set 
 python3 rain.py
 ```
 
+## Options
+There are a few customisations you can make on instantiation of the Matrix class:
+
+- **screen_width** *default=150* - can be used to change the width of the output in the terminal
+- **line_count**   *default=750* - can be used to change the amount of lines
+- **line_speed**.  *default=0.1* - how quickly the lines print
+
 ## Contributors
 If you feel you can add anything, please go ahead.
 
