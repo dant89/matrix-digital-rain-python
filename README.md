@@ -4,7 +4,7 @@ Matrix Digital Rain Python
 ## Enter the Matrix
 A 'just for fun' python console version of the classic [Matrix digital rain](https://en.wikipedia.org/wiki/Matrix_digital_rain)
 
-## Installation
+## Intructions
 It's simple to run, just open up a terminal and run the rain.py file - it's set to autorun so that's all you really need to do to enter the Matrix!
 
 ```
