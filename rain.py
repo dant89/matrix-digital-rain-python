@@ -58,6 +58,6 @@ class Matrix:
 
 
 if __name__ == '__main__':
-    seed(datetime.now())
+    seed(str(datetime.now()))
     matrix = Matrix()
     matrix.startMatrix()
